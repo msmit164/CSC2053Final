@@ -1,2 +1,6 @@
 Mackenzie Smith
+<<<<<<< HEAD
 msmit164@villanova.edu
+=======
+James Wang
+>>>>>>> 1e3ab2b5aa104f9a111cb8efa7fc37a3c29a78f2
